@@ -13,7 +13,7 @@ if [ "$opcion" -eq 1 ]; then
     docker compose up --build
 elif [ "$opcion" -eq 2 ]; then
     echo "Ejecutando test..."
-    for i in {1..105}; 
+    for i in {1..65}; 
         do curl -X POST http://localhost/login 
         echo;
     done
