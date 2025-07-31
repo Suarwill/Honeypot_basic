@@ -30,6 +30,6 @@ Este proyecto es una implementación básica de un honeypot, ideal para comprend
 ## Uso
 1. Clona este repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/Suarwill/Honeypot_basic.git
    cd Honeypot
    ```
